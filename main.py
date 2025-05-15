@@ -57,5 +57,10 @@ def decToHex(result,number):
         decToHex(result,number)
 decToHex(result,number)
 
+#How I tested:
+#I started by making it print the Remainder, Base and Result on every step, which gave me a good idea of the math it was preforming.
+#At first I was using a for loop to just get an idea of the actual process, and then shifted to recursion once I was a little more confident that it worked.
+#If no errors happened when I entered a random number, I would take the result I got and enter it into an online base converter calculator.
+#If the two results matched, then I got the desired result.
 
 #I can't for the life of me understand the math of the next two. But I hope these two are enough to show that I at least understand recursion.
